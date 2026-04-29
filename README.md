@@ -1,5 +1,3 @@
-
-```md
 ## Agentic Intelligence for Enterprise Synthesis
 
 An end-to-end **multi-agent AI system** that synthesizes unstructured enterprise data into **executive-level technical briefs** using:
@@ -94,7 +92,7 @@ agentic-intelligence-system/
 ├── .env
 └── README.md
 
-````
+```
 
 
 ## Setup Instructions
